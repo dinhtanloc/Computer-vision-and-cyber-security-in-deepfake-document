@@ -1,0 +1,1327 @@
+{
+  "build": "hcfcfb64_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "pyopenssl >=22.1"
+  ],
+  "depends": [
+    "ca-certificates",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Admin\\miniconda3\\pkgs\\openssl-3.2.1-hcfcfb64_1",
+  "files": [
+    "Library/bin/c_rehash.pl",
+    "Library/bin/libcrypto-3-x64.dll",
+    "Library/bin/libcrypto-3-x64.pdb",
+    "Library/bin/libssl-3-x64.dll",
+    "Library/bin/libssl-3-x64.pdb",
+    "Library/bin/openssl.exe",
+    "Library/bin/openssl.pdb",
+    "Library/ct_log_list.cnf",
+    "Library/ct_log_list.cnf.dist",
+    "Library/include/openssl/__DECC_INCLUDE_EPILOGUE.H",
+    "Library/include/openssl/__DECC_INCLUDE_PROLOGUE.H",
+    "Library/include/openssl/aes.h",
+    "Library/include/openssl/applink.c",
+    "Library/include/openssl/asn1.h",
+    "Library/include/openssl/asn1_mac.h",
+    "Library/include/openssl/asn1err.h",
+    "Library/include/openssl/asn1t.h",
+    "Library/include/openssl/async.h",
+    "Library/include/openssl/asyncerr.h",
+    "Library/include/openssl/bio.h",
+    "Library/include/openssl/bioerr.h",
+    "Library/include/openssl/blowfish.h",
+    "Library/include/openssl/bn.h",
+    "Library/include/openssl/bnerr.h",
+    "Library/include/openssl/buffer.h",
+    "Library/include/openssl/buffererr.h",
+    "Library/include/openssl/camellia.h",
+    "Library/include/openssl/cast.h",
+    "Library/include/openssl/cmac.h",
+    "Library/include/openssl/cmp.h",
+    "Library/include/openssl/cmp_util.h",
+    "Library/include/openssl/cmperr.h",
+    "Library/include/openssl/cms.h",
+    "Library/include/openssl/cmserr.h",
+    "Library/include/openssl/comp.h",
+    "Library/include/openssl/comperr.h",
+    "Library/include/openssl/conf.h",
+    "Library/include/openssl/conf_api.h",
+    "Library/include/openssl/conferr.h",
+    "Library/include/openssl/configuration.h",
+    "Library/include/openssl/conftypes.h",
+    "Library/include/openssl/core.h",
+    "Library/include/openssl/core_dispatch.h",
+    "Library/include/openssl/core_names.h",
+    "Library/include/openssl/core_object.h",
+    "Library/include/openssl/crmf.h",
+    "Library/include/openssl/crmferr.h",
+    "Library/include/openssl/crypto.h",
+    "Library/include/openssl/cryptoerr.h",
+    "Library/include/openssl/cryptoerr_legacy.h",
+    "Library/include/openssl/ct.h",
+    "Library/include/openssl/cterr.h",
+    "Library/include/openssl/decoder.h",
+    "Library/include/openssl/decodererr.h",
+    "Library/include/openssl/des.h",
+    "Library/include/openssl/dh.h",
+    "Library/include/openssl/dherr.h",
+    "Library/include/openssl/dsa.h",
+    "Library/include/openssl/dsaerr.h",
+    "Library/include/openssl/dtls1.h",
+    "Library/include/openssl/e_os2.h",
+    "Library/include/openssl/e_ostime.h",
+    "Library/include/openssl/ebcdic.h",
+    "Library/include/openssl/ec.h",
+    "Library/include/openssl/ecdh.h",
+    "Library/include/openssl/ecdsa.h",
+    "Library/include/openssl/ecerr.h",
+    "Library/include/openssl/encoder.h",
+    "Library/include/openssl/encodererr.h",
+    "Library/include/openssl/engine.h",
+    "Library/include/openssl/engineerr.h",
+    "Library/include/openssl/err.h",
+    "Library/include/openssl/ess.h",
+    "Library/include/openssl/esserr.h",
+    "Library/include/openssl/evp.h",
+    "Library/include/openssl/evperr.h",
+    "Library/include/openssl/fips_names.h",
+    "Library/include/openssl/fipskey.h",
+    "Library/include/openssl/hmac.h",
+    "Library/include/openssl/hpke.h",
+    "Library/include/openssl/http.h",
+    "Library/include/openssl/httperr.h",
+    "Library/include/openssl/idea.h",
+    "Library/include/openssl/kdf.h",
+    "Library/include/openssl/kdferr.h",
+    "Library/include/openssl/lhash.h",
+    "Library/include/openssl/macros.h",
+    "Library/include/openssl/md2.h",
+    "Library/include/openssl/md4.h",
+    "Library/include/openssl/md5.h",
+    "Library/include/openssl/mdc2.h",
+    "Library/include/openssl/modes.h",
+    "Library/include/openssl/obj_mac.h",
+    "Library/include/openssl/objects.h",
+    "Library/include/openssl/objectserr.h",
+    "Library/include/openssl/ocsp.h",
+    "Library/include/openssl/ocsperr.h",
+    "Library/include/openssl/opensslconf.h",
+    "Library/include/openssl/opensslv.h",
+    "Library/include/openssl/ossl_typ.h",
+    "Library/include/openssl/param_build.h",
+    "Library/include/openssl/params.h",
+    "Library/include/openssl/pem.h",
+    "Library/include/openssl/pem2.h",
+    "Library/include/openssl/pemerr.h",
+    "Library/include/openssl/pkcs12.h",
+    "Library/include/openssl/pkcs12err.h",
+    "Library/include/openssl/pkcs7.h",
+    "Library/include/openssl/pkcs7err.h",
+    "Library/include/openssl/prov_ssl.h",
+    "Library/include/openssl/proverr.h",
+    "Library/include/openssl/provider.h",
+    "Library/include/openssl/quic.h",
+    "Library/include/openssl/rand.h",
+    "Library/include/openssl/randerr.h",
+    "Library/include/openssl/rc2.h",
+    "Library/include/openssl/rc4.h",
+    "Library/include/openssl/rc5.h",
+    "Library/include/openssl/ripemd.h",
+    "Library/include/openssl/rsa.h",
+    "Library/include/openssl/rsaerr.h",
+    "Library/include/openssl/safestack.h",
+    "Library/include/openssl/seed.h",
+    "Library/include/openssl/self_test.h",
+    "Library/include/openssl/sha.h",
+    "Library/include/openssl/srp.h",
+    "Library/include/openssl/srtp.h",
+    "Library/include/openssl/ssl.h",
+    "Library/include/openssl/ssl2.h",
+    "Library/include/openssl/ssl3.h",
+    "Library/include/openssl/sslerr.h",
+    "Library/include/openssl/sslerr_legacy.h",
+    "Library/include/openssl/stack.h",
+    "Library/include/openssl/store.h",
+    "Library/include/openssl/storeerr.h",
+    "Library/include/openssl/symhacks.h",
+    "Library/include/openssl/thread.h",
+    "Library/include/openssl/tls1.h",
+    "Library/include/openssl/trace.h",
+    "Library/include/openssl/ts.h",
+    "Library/include/openssl/tserr.h",
+    "Library/include/openssl/txt_db.h",
+    "Library/include/openssl/types.h",
+    "Library/include/openssl/ui.h",
+    "Library/include/openssl/uierr.h",
+    "Library/include/openssl/whrlpool.h",
+    "Library/include/openssl/x509.h",
+    "Library/include/openssl/x509_vfy.h",
+    "Library/include/openssl/x509err.h",
+    "Library/include/openssl/x509v3.h",
+    "Library/include/openssl/x509v3err.h",
+    "Library/lib/libcrypto.lib",
+    "Library/lib/libssl.lib",
+    "Library/lib/pkgconfig/libcrypto.pc",
+    "Library/lib/pkgconfig/libssl.pc",
+    "Library/lib/pkgconfig/openssl.pc",
+    "Library/misc/CA.pl",
+    "Library/misc/tsget.pl",
+    "Library/openssl.cnf",
+    "Library/openssl.cnf.dist",
+    ".nonadmin"
+  ],
+  "fn": "openssl-3.2.1-hcfcfb64_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\Admin\\miniconda3\\pkgs\\openssl-3.2.1-hcfcfb64_1",
+    "type": 1
+  },
+  "md5": "958e0418e93e50c575bff70fbcaa12d8",
+  "name": "openssl",
+  "package_tarball_full_path": "C:\\Users\\Admin\\miniconda3\\pkgs\\openssl-3.2.1-hcfcfb64_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/c_rehash.pl",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:\\\\bld\\\\openssl_split_1710792702164\\\\_h_env",
+        "sha256": "f40b84eb5c83317ca436c552420feaac3b460c31d131d3b17f476c0526b55d7a",
+        "sha256_in_prefix": "36cd18944d771127fe3c17c235e2776d15b3b7e5eb8bc5b3f528617eb06240ff",
+        "size_in_bytes": 7206
+      },
+      {
+        "_path": "Library/bin/libcrypto-3-x64.dll",
+        "path_type": "hardlink",
+        "sha256": "6704589e319d516aae97e3824f2f02fad97bf22fb61e29c067b0e5c11efb79d9",
+        "sha256_in_prefix": "6704589e319d516aae97e3824f2f02fad97bf22fb61e29c067b0e5c11efb79d9",
+        "size_in_bytes": 6422528
+      },
+      {
+        "_path": "Library/bin/libcrypto-3-x64.pdb",
+        "path_type": "hardlink",
+        "sha256": "dd7f5da54b04e0129583bd60ce78f9996f14459f8b887525b92ae014e8bb338b",
+        "sha256_in_prefix": "dd7f5da54b04e0129583bd60ce78f9996f14459f8b887525b92ae014e8bb338b",
+        "size_in_bytes": 18108416
+      },
+      {
+        "_path": "Library/bin/libssl-3-x64.dll",
+        "path_type": "hardlink",
+        "sha256": "0c3728be48267c483e0e80efb2769332a237035c4f98e2eeb7f9ba706f478b75",
+        "sha256_in_prefix": "0c3728be48267c483e0e80efb2769332a237035c4f98e2eeb7f9ba706f478b75",
+        "size_in_bytes": 1171456
+      },
+      {
+        "_path": "Library/bin/libssl-3-x64.pdb",
+        "path_type": "hardlink",
+        "sha256": "6f3cd9fa755199d82c1817ef9db662d123fe2e129d01fd4def054fa99d4352e7",
+        "sha256_in_prefix": "6f3cd9fa755199d82c1817ef9db662d123fe2e129d01fd4def054fa99d4352e7",
+        "size_in_bytes": 4395008
+      },
+      {
+        "_path": "Library/bin/openssl.exe",
+        "path_type": "hardlink",
+        "sha256": "de6ea6cb1ca629471d075ef2d0b9d90ee01d940199a66747f548c77878f5667c",
+        "sha256_in_prefix": "de6ea6cb1ca629471d075ef2d0b9d90ee01d940199a66747f548c77878f5667c",
+        "size_in_bytes": 760832
+      },
+      {
+        "_path": "Library/bin/openssl.pdb",
+        "path_type": "hardlink",
+        "sha256": "52d219b4739129378ddcfe92e5bd4e73207b7d2e41be2955bc55ff7cff58b656",
+        "sha256_in_prefix": "52d219b4739129378ddcfe92e5bd4e73207b7d2e41be2955bc55ff7cff58b656",
+        "size_in_bytes": 3198976
+      },
+      {
+        "_path": "Library/ct_log_list.cnf",
+        "path_type": "hardlink",
+        "sha256": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "sha256_in_prefix": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "size_in_bytes": 412
+      },
+      {
+        "_path": "Library/ct_log_list.cnf.dist",
+        "path_type": "hardlink",
+        "sha256": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "sha256_in_prefix": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "size_in_bytes": 412
+      },
+      {
+        "_path": "Library/include/openssl/__DECC_INCLUDE_EPILOGUE.H",
+        "path_type": "hardlink",
+        "sha256": "3d837d015f23ad248d7e0c74b5b8ca102d81525f166a0a4b7c19900eea982644",
+        "sha256_in_prefix": "3d837d015f23ad248d7e0c74b5b8ca102d81525f166a0a4b7c19900eea982644",
+        "size_in_bytes": 729
+      },
+      {
+        "_path": "Library/include/openssl/__DECC_INCLUDE_PROLOGUE.H",
+        "path_type": "hardlink",
+        "sha256": "e66be3418a7b707f09fa011c85b0b3fdfcfa1740c46da11385abf23fe9983529",
+        "sha256_in_prefix": "e66be3418a7b707f09fa011c85b0b3fdfcfa1740c46da11385abf23fe9983529",
+        "size_in_bytes": 801
+      },
+      {
+        "_path": "Library/include/openssl/aes.h",
+        "path_type": "hardlink",
+        "sha256": "27aaa89367b022b12b66cf52c3c2d68f6761965ac36f3f1153202fa44692ad0e",
+        "sha256_in_prefix": "27aaa89367b022b12b66cf52c3c2d68f6761965ac36f3f1153202fa44692ad0e",
+        "size_in_bytes": 3752
+      },
+      {
+        "_path": "Library/include/openssl/applink.c",
+        "path_type": "hardlink",
+        "sha256": "6862805c3d7fed06df62c5309f5c24798725b58bba144a4f02db985ff9965347",
+        "sha256_in_prefix": "6862805c3d7fed06df62c5309f5c24798725b58bba144a4f02db985ff9965347",
+        "size_in_bytes": 3988
+      },
+      {
+        "_path": "Library/include/openssl/asn1.h",
+        "path_type": "hardlink",
+        "sha256": "14ed6e1e9b40b3b3c1c8d0284d41e56f23e33dcd9f234440a33d7a75d45c0c66",
+        "sha256_in_prefix": "14ed6e1e9b40b3b3c1c8d0284d41e56f23e33dcd9f234440a33d7a75d45c0c66",
+        "size_in_bytes": 62242
+      },
+      {
+        "_path": "Library/include/openssl/asn1_mac.h",
+        "path_type": "hardlink",
+        "sha256": "5a0d1d59316bc398bc63af0f1dcf377fb66c3e3132d4c45400c9dbc2003e24b5",
+        "sha256_in_prefix": "5a0d1d59316bc398bc63af0f1dcf377fb66c3e3132d4c45400c9dbc2003e24b5",
+        "size_in_bytes": 398
+      },
+      {
+        "_path": "Library/include/openssl/asn1err.h",
+        "path_type": "hardlink",
+        "sha256": "75c4b045fef75587c0df5c658b7466b74ad42755368a56cf6ff43581aa5768c6",
+        "sha256_in_prefix": "75c4b045fef75587c0df5c658b7466b74ad42755368a56cf6ff43581aa5768c6",
+        "size_in_bytes": 7731
+      },
+      {
+        "_path": "Library/include/openssl/asn1t.h",
+        "path_type": "hardlink",
+        "sha256": "03fcf37af6248fad3421306aa87d1bb2365a4b29f4f7be035d87651e42ed012c",
+        "sha256_in_prefix": "03fcf37af6248fad3421306aa87d1bb2365a4b29f4f7be035d87651e42ed012c",
+        "size_in_bytes": 36883
+      },
+      {
+        "_path": "Library/include/openssl/async.h",
+        "path_type": "hardlink",
+        "sha256": "f0112bd2d6f7ef9d2192f614c7d43bf6a0b3cc8be8f3116ba539b7a6579698a7",
+        "sha256_in_prefix": "f0112bd2d6f7ef9d2192f614c7d43bf6a0b3cc8be8f3116ba539b7a6579698a7",
+        "size_in_bytes": 3504
+      },
+      {
+        "_path": "Library/include/openssl/asyncerr.h",
+        "path_type": "hardlink",
+        "sha256": "154f003cfbf49040a04d9aac459cf5009a5a1d76298b222d66ba5b5a4e3721af",
+        "sha256_in_prefix": "154f003cfbf49040a04d9aac459cf5009a5a1d76298b222d66ba5b5a4e3721af",
+        "size_in_bytes": 842
+      },
+      {
+        "_path": "Library/include/openssl/bio.h",
+        "path_type": "hardlink",
+        "sha256": "ee06c20de63beaf741e4fd87dd0dde1394df52970a4cd330822804c643fde56a",
+        "sha256_in_prefix": "ee06c20de63beaf741e4fd87dd0dde1394df52970a4cd330822804c643fde56a",
+        "size_in_bytes": 46364
+      },
+      {
+        "_path": "Library/include/openssl/bioerr.h",
+        "path_type": "hardlink",
+        "sha256": "fab33e1a3a6d998634e31e86556c7badfae58876c753d10c841e3506edb9bb3e",
+        "sha256_in_prefix": "fab33e1a3a6d998634e31e86556c7badfae58876c753d10c841e3506edb9bb3e",
+        "size_in_bytes": 3515
+      },
+      {
+        "_path": "Library/include/openssl/blowfish.h",
+        "path_type": "hardlink",
+        "sha256": "fb4b19b7730d1cc7ff2b9da1435a506ad0ef50263bd168c5ff24214a06580282",
+        "sha256_in_prefix": "fb4b19b7730d1cc7ff2b9da1435a506ad0ef50263bd168c5ff24214a06580282",
+        "size_in_bytes": 2693
+      },
+      {
+        "_path": "Library/include/openssl/bn.h",
+        "path_type": "hardlink",
+        "sha256": "ee24f408eb0e8cdf72e94d6d7fd4a411d3e12824592e493b72764957cf75a58b",
+        "sha256_in_prefix": "ee24f408eb0e8cdf72e94d6d7fd4a411d3e12824592e493b72764957cf75a58b",
+        "size_in_bytes": 24183
+      },
+      {
+        "_path": "Library/include/openssl/bnerr.h",
+        "path_type": "hardlink",
+        "sha256": "f0dfac26985a7ae40174e90173df9f95b15bba4d3768290746d7258ff1b0ae64",
+        "sha256_in_prefix": "f0dfac26985a7ae40174e90173df9f95b15bba4d3768290746d7258ff1b0ae64",
+        "size_in_bytes": 1949
+      },
+      {
+        "_path": "Library/include/openssl/buffer.h",
+        "path_type": "hardlink",
+        "sha256": "c87b52702746e224e6242f4a2a2070b007502ea92063b41df2c4f6bec11c37ca",
+        "sha256_in_prefix": "c87b52702746e224e6242f4a2a2070b007502ea92063b41df2c4f6bec11c37ca",
+        "size_in_bytes": 1658
+      },
+      {
+        "_path": "Library/include/openssl/buffererr.h",
+        "path_type": "hardlink",
+        "sha256": "73f33a7b4406477a0eaf9d0ec42f43b2594167b1d6b84175f378cf5b0de07c12",
+        "sha256_in_prefix": "73f33a7b4406477a0eaf9d0ec42f43b2594167b1d6b84175f378cf5b0de07c12",
+        "size_in_bytes": 594
+      },
+      {
+        "_path": "Library/include/openssl/camellia.h",
+        "path_type": "hardlink",
+        "sha256": "d1cee6e44668fba0e46c38db7394aa094c6cd2a25b97dbcfcc6f0ff4414f8ebf",
+        "sha256_in_prefix": "d1cee6e44668fba0e46c38db7394aa094c6cd2a25b97dbcfcc6f0ff4414f8ebf",
+        "size_in_bytes": 5069
+      },
+      {
+        "_path": "Library/include/openssl/cast.h",
+        "path_type": "hardlink",
+        "sha256": "654ac650ae74ca5e9a87ab46c1205157a7489097d005fdccc4c52912cfcefa55",
+        "sha256_in_prefix": "654ac650ae74ca5e9a87ab46c1205157a7489097d005fdccc4c52912cfcefa55",
+        "size_in_bytes": 2066
+      },
+      {
+        "_path": "Library/include/openssl/cmac.h",
+        "path_type": "hardlink",
+        "sha256": "b26f8ddb9f60eef2601a84a5455c11060e028d8ce700cae682c4a02ffe2f2ca2",
+        "sha256_in_prefix": "b26f8ddb9f60eef2601a84a5455c11060e028d8ce700cae682c4a02ffe2f2ca2",
+        "size_in_bytes": 1608
+      },
+      {
+        "_path": "Library/include/openssl/cmp.h",
+        "path_type": "hardlink",
+        "sha256": "78f59723e158e361d22ff31786fec9f5d9b65b37caa6628d65e441e4327dba2c",
+        "sha256_in_prefix": "78f59723e158e361d22ff31786fec9f5d9b65b37caa6628d65e441e4327dba2c",
+        "size_in_bytes": 43426
+      },
+      {
+        "_path": "Library/include/openssl/cmp_util.h",
+        "path_type": "hardlink",
+        "sha256": "7a982bac5840812b486176102b1fe8b48dda8cce0fe94f2d35aff5057a99004e",
+        "sha256_in_prefix": "7a982bac5840812b486176102b1fe8b48dda8cce0fe94f2d35aff5057a99004e",
+        "size_in_bytes": 1742
+      },
+      {
+        "_path": "Library/include/openssl/cmperr.h",
+        "path_type": "hardlink",
+        "sha256": "57b9268db3b39211fa5bce88dc6bf217ab731649bb1f63dd696ea7aac19a96a8",
+        "sha256_in_prefix": "57b9268db3b39211fa5bce88dc6bf217ab731649bb1f63dd696ea7aac19a96a8",
+        "size_in_bytes": 6417
+      },
+      {
+        "_path": "Library/include/openssl/cms.h",
+        "path_type": "hardlink",
+        "sha256": "3c7260d462b33ddd824612937e71102fc7afc31d920c3b8764a11294499799d8",
+        "sha256_in_prefix": "3c7260d462b33ddd824612937e71102fc7afc31d920c3b8764a11294499799d8",
+        "size_in_bytes": 35575
+      },
+      {
+        "_path": "Library/include/openssl/cmserr.h",
+        "path_type": "hardlink",
+        "sha256": "248ec0b45cd8488035dfa40f3696966a3fea3b8e38ffee55b94b8a1e4d58053d",
+        "sha256_in_prefix": "248ec0b45cd8488035dfa40f3696966a3fea3b8e38ffee55b94b8a1e4d58053d",
+        "size_in_bytes": 6731
+      },
+      {
+        "_path": "Library/include/openssl/comp.h",
+        "path_type": "hardlink",
+        "sha256": "7054fc9fdb7ce08bddd07658d3a326f801e313e860459cba016b18f66d3d3fb7",
+        "sha256_in_prefix": "7054fc9fdb7ce08bddd07658d3a326f801e313e860459cba016b18f66d3d3fb7",
+        "size_in_bytes": 1674
+      },
+      {
+        "_path": "Library/include/openssl/comperr.h",
+        "path_type": "hardlink",
+        "sha256": "851f81212d489813f368757bc9511ccfa76b9cb66024607f3f0d4846a42eb085",
+        "sha256_in_prefix": "851f81212d489813f368757bc9511ccfa76b9cb66024607f3f0d4846a42eb085",
+        "size_in_bytes": 1254
+      },
+      {
+        "_path": "Library/include/openssl/conf.h",
+        "path_type": "hardlink",
+        "sha256": "a593f04fd3600ce68d4bd58dfd0cca2dacb67a3b269d4e79ab4390c11be04de1",
+        "sha256_in_prefix": "a593f04fd3600ce68d4bd58dfd0cca2dacb67a3b269d4e79ab4390c11be04de1",
+        "size_in_bytes": 10754
+      },
+      {
+        "_path": "Library/include/openssl/conf_api.h",
+        "path_type": "hardlink",
+        "sha256": "a66bcc69464235679980efc4a687a4fe036388da91173809ca45c0a3cfe47a5b",
+        "sha256_in_prefix": "a66bcc69464235679980efc4a687a4fe036388da91173809ca45c0a3cfe47a5b",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "Library/include/openssl/conferr.h",
+        "path_type": "hardlink",
+        "sha256": "ee8aaa36553894d836b728ce9a52234d22b5d812bbbb75fa09645e7b1011346a",
+        "sha256_in_prefix": "ee8aaa36553894d836b728ce9a52234d22b5d812bbbb75fa09645e7b1011346a",
+        "size_in_bytes": 2265
+      },
+      {
+        "_path": "Library/include/openssl/configuration.h",
+        "path_type": "hardlink",
+        "sha256": "357053ed1b06a2c60f9d46f5daab3c704861bbaa26724f9ef19627746bf7fd4b",
+        "sha256_in_prefix": "357053ed1b06a2c60f9d46f5daab3c704861bbaa26724f9ef19627746bf7fd4b",
+        "size_in_bytes": 4015
+      },
+      {
+        "_path": "Library/include/openssl/conftypes.h",
+        "path_type": "hardlink",
+        "sha256": "e8f6697076d2464eaecfe2cdae8d2045388c53da2372fd52df5f6cfdc4d63375",
+        "sha256_in_prefix": "e8f6697076d2464eaecfe2cdae8d2045388c53da2372fd52df5f6cfdc4d63375",
+        "size_in_bytes": 1190
+      },
+      {
+        "_path": "Library/include/openssl/core.h",
+        "path_type": "hardlink",
+        "sha256": "a4a8e73bd642913e2ec268d13460f7bb97aceea59152430483e013775328eb3d",
+        "sha256_in_prefix": "a4a8e73bd642913e2ec268d13460f7bb97aceea59152430483e013775328eb3d",
+        "size_in_bytes": 8177
+      },
+      {
+        "_path": "Library/include/openssl/core_dispatch.h",
+        "path_type": "hardlink",
+        "sha256": "12f855f630c8710f5f19341e0b4630372f46ac63c54cd6340968903adf556b92",
+        "sha256_in_prefix": "12f855f630c8710f5f19341e0b4630372f46ac63c54cd6340968903adf556b92",
+        "size_in_bytes": 50142
+      },
+      {
+        "_path": "Library/include/openssl/core_names.h",
+        "path_type": "hardlink",
+        "sha256": "94b0de9232ceb3fa34f3d6cb54227a7859f521012f3a3e1d1368daad9b0b88d6",
+        "sha256_in_prefix": "94b0de9232ceb3fa34f3d6cb54227a7859f521012f3a3e1d1368daad9b0b88d6",
+        "size_in_bytes": 23621
+      },
+      {
+        "_path": "Library/include/openssl/core_object.h",
+        "path_type": "hardlink",
+        "sha256": "7a7172d30597e3a3e06c4e67a049d1335aa6f7d5b49641abba8fd4d5a1c07563",
+        "sha256_in_prefix": "7a7172d30597e3a3e06c4e67a049d1335aa6f7d5b49641abba8fd4d5a1c07563",
+        "size_in_bytes": 1126
+      },
+      {
+        "_path": "Library/include/openssl/crmf.h",
+        "path_type": "hardlink",
+        "sha256": "892919da4fa0d9eff067fb39bf78d0aa63e9444df5565b8641372e9791972a18",
+        "sha256_in_prefix": "892919da4fa0d9eff067fb39bf78d0aa63e9444df5565b8641372e9791972a18",
+        "size_in_bytes": 14961
+      },
+      {
+        "_path": "Library/include/openssl/crmferr.h",
+        "path_type": "hardlink",
+        "sha256": "c08a40103c0c6d0d7d9ad0e2781db1f19829d29193d115d38b4d0271d13fecf9",
+        "sha256_in_prefix": "c08a40103c0c6d0d7d9ad0e2781db1f19829d29193d115d38b4d0271d13fecf9",
+        "size_in_bytes": 2011
+      },
+      {
+        "_path": "Library/include/openssl/crypto.h",
+        "path_type": "hardlink",
+        "sha256": "1b9d8bbf243792d89a3067ef1f814d293f23014b0c5d0d8d2a698eb546863f43",
+        "sha256_in_prefix": "1b9d8bbf243792d89a3067ef1f814d293f23014b0c5d0d8d2a698eb546863f43",
+        "size_in_bytes": 24736
+      },
+      {
+        "_path": "Library/include/openssl/cryptoerr.h",
+        "path_type": "hardlink",
+        "sha256": "2035467a49cd64e952be41ce9a8754652acf31e481f2d710e14a0a4fc870cd4f",
+        "sha256_in_prefix": "2035467a49cd64e952be41ce9a8754652acf31e481f2d710e14a0a4fc870cd4f",
+        "size_in_bytes": 2467
+      },
+      {
+        "_path": "Library/include/openssl/cryptoerr_legacy.h",
+        "path_type": "hardlink",
+        "sha256": "870042252331e89723d31079469104cafd676f0fedcbe0d99f56f3e8862fff8d",
+        "sha256_in_prefix": "870042252331e89723d31079469104cafd676f0fedcbe0d99f56f3e8862fff8d",
+        "size_in_bytes": 80396
+      },
+      {
+        "_path": "Library/include/openssl/ct.h",
+        "path_type": "hardlink",
+        "sha256": "6ccbacdb973371c4a93638e14b0096494d8a22df7c84e60a5433aac8a2f00bb5",
+        "sha256_in_prefix": "6ccbacdb973371c4a93638e14b0096494d8a22df7c84e60a5433aac8a2f00bb5",
+        "size_in_bytes": 23283
+      },
+      {
+        "_path": "Library/include/openssl/cterr.h",
+        "path_type": "hardlink",
+        "sha256": "562bfe4ac984ebfef4fb91bdbe0a649d157f5057ab61ffee3a844d23f7c72c0a",
+        "sha256_in_prefix": "562bfe4ac984ebfef4fb91bdbe0a649d157f5057ab61ffee3a844d23f7c72c0a",
+        "size_in_bytes": 1688
+      },
+      {
+        "_path": "Library/include/openssl/decoder.h",
+        "path_type": "hardlink",
+        "sha256": "8419fd9e4e333fd477238bbad4ff875d5657b02cc39635c3a5c15f3a5bc7f0f2",
+        "sha256_in_prefix": "8419fd9e4e333fd477238bbad4ff875d5657b02cc39635c3a5c15f3a5bc7f0f2",
+        "size_in_bytes": 5760
+      },
+      {
+        "_path": "Library/include/openssl/decodererr.h",
+        "path_type": "hardlink",
+        "sha256": "a785fb95930e8b4a18054f77b7d5143d44673f4ca57682899bc2bf3464cafccf",
+        "sha256_in_prefix": "a785fb95930e8b4a18054f77b7d5143d44673f4ca57682899bc2bf3464cafccf",
+        "size_in_bytes": 791
+      },
+      {
+        "_path": "Library/include/openssl/des.h",
+        "path_type": "hardlink",
+        "sha256": "bb13c7c5e13f3402d674fa88994b92ed72d6cdc1116707765d28bd7e0de31285",
+        "sha256_in_prefix": "bb13c7c5e13f3402d674fa88994b92ed72d6cdc1116707765d28bd7e0de31285",
+        "size_in_bytes": 8525
+      },
+      {
+        "_path": "Library/include/openssl/dh.h",
+        "path_type": "hardlink",
+        "sha256": "731a77b034eeacbb4fa5bcb6b67e413307a66451a9e2956cd5036a9087cb9d44",
+        "sha256_in_prefix": "731a77b034eeacbb4fa5bcb6b67e413307a66451a9e2956cd5036a9087cb9d44",
+        "size_in_bytes": 15352
+      },
+      {
+        "_path": "Library/include/openssl/dherr.h",
+        "path_type": "hardlink",
+        "sha256": "9a9878ebd561a4fb1d38c8157d511f5de0893ac7b928f33b5cc52450bcc41a9d",
+        "sha256_in_prefix": "9a9878ebd561a4fb1d38c8157d511f5de0893ac7b928f33b5cc52450bcc41a9d",
+        "size_in_bytes": 2570
+      },
+      {
+        "_path": "Library/include/openssl/dsa.h",
+        "path_type": "hardlink",
+        "sha256": "3e9b65a16899dd737b4c8fa99bd94f0cf94dcfb6ebea4a24e7b21fc92e409e46",
+        "sha256_in_prefix": "3e9b65a16899dd737b4c8fa99bd94f0cf94dcfb6ebea4a24e7b21fc92e409e46",
+        "size_in_bytes": 12532
+      },
+      {
+        "_path": "Library/include/openssl/dsaerr.h",
+        "path_type": "hardlink",
+        "sha256": "69c2ecff5f62898461bc521ea918abd2a673206dd5e8d43288ad25d2c012f163",
+        "sha256_in_prefix": "69c2ecff5f62898461bc521ea918abd2a673206dd5e8d43288ad25d2c012f163",
+        "size_in_bytes": 1629
+      },
+      {
+        "_path": "Library/include/openssl/dtls1.h",
+        "path_type": "hardlink",
+        "sha256": "1d1f404032a9eb31408c1f10bdff554d5740fb345b64b86fb74da8df95fbd901",
+        "sha256_in_prefix": "1d1f404032a9eb31408c1f10bdff554d5740fb345b64b86fb74da8df95fbd901",
+        "size_in_bytes": 1465
+      },
+      {
+        "_path": "Library/include/openssl/e_os2.h",
+        "path_type": "hardlink",
+        "sha256": "41b036905ed3ab786e28ea619d353e18b5218ff98ab0cf79a6cfe7980842452e",
+        "sha256_in_prefix": "41b036905ed3ab786e28ea619d353e18b5218ff98ab0cf79a6cfe7980842452e",
+        "size_in_bytes": 8800
+      },
+      {
+        "_path": "Library/include/openssl/e_ostime.h",
+        "path_type": "hardlink",
+        "sha256": "587a7593925c8d5b2f0dc3060904e3a4a7472be0ebc7dbfe2f6af6e40eb8bcc7",
+        "sha256_in_prefix": "587a7593925c8d5b2f0dc3060904e3a4a7472be0ebc7dbfe2f6af6e40eb8bcc7",
+        "size_in_bytes": 1188
+      },
+      {
+        "_path": "Library/include/openssl/ebcdic.h",
+        "path_type": "hardlink",
+        "sha256": "75a668c25c97853d5ba37ebce060a15152573242e3729d42830eba1daa642404",
+        "sha256_in_prefix": "75a668c25c97853d5ba37ebce060a15152573242e3729d42830eba1daa642404",
+        "size_in_bytes": 1042
+      },
+      {
+        "_path": "Library/include/openssl/ec.h",
+        "path_type": "hardlink",
+        "sha256": "0b028cf04ba8769a693f022725c91ef902a9e31f12a950180d1b4e8fa6952ff2",
+        "sha256_in_prefix": "0b028cf04ba8769a693f022725c91ef902a9e31f12a950180d1b4e8fa6952ff2",
+        "size_in_bytes": 68440
+      },
+      {
+        "_path": "Library/include/openssl/ecdh.h",
+        "path_type": "hardlink",
+        "sha256": "5b99fdd1dfea38640ed8a506fb9b66db381cc26a1254448a81cc6b161e41850f",
+        "sha256_in_prefix": "5b99fdd1dfea38640ed8a506fb9b66db381cc26a1254448a81cc6b161e41850f",
+        "size_in_bytes": 361
+      },
+      {
+        "_path": "Library/include/openssl/ecdsa.h",
+        "path_type": "hardlink",
+        "sha256": "5b99fdd1dfea38640ed8a506fb9b66db381cc26a1254448a81cc6b161e41850f",
+        "sha256_in_prefix": "5b99fdd1dfea38640ed8a506fb9b66db381cc26a1254448a81cc6b161e41850f",
+        "size_in_bytes": 361
+      },
+      {
+        "_path": "Library/include/openssl/ecerr.h",
+        "path_type": "hardlink",
+        "sha256": "ce4fec7ee41de25a20abb7a9f00fe93305793a7bd2023d434b9aa6f64f91058a",
+        "sha256_in_prefix": "ce4fec7ee41de25a20abb7a9f00fe93305793a7bd2023d434b9aa6f64f91058a",
+        "size_in_bytes": 5405
+      },
+      {
+        "_path": "Library/include/openssl/encoder.h",
+        "path_type": "hardlink",
+        "sha256": "907d2f061c2972447d3f0c1cfc149c78791b1e4bdc131ad5a3eed1d084c76b41",
+        "sha256_in_prefix": "907d2f061c2972447d3f0c1cfc149c78791b1e4bdc131ad5a3eed1d084c76b41",
+        "size_in_bytes": 5450
+      },
+      {
+        "_path": "Library/include/openssl/encodererr.h",
+        "path_type": "hardlink",
+        "sha256": "63504766e9fcf36fe1527d95fe21460574896da187c60707bfa68254a35693b7",
+        "sha256_in_prefix": "63504766e9fcf36fe1527d95fe21460574896da187c60707bfa68254a35693b7",
+        "size_in_bytes": 791
+      },
+      {
+        "_path": "Library/include/openssl/engine.h",
+        "path_type": "hardlink",
+        "sha256": "b48e5406717b26f41085dad8cc553e78c6cc54ea936df8ff1aa1312f32a6c053",
+        "sha256_in_prefix": "b48e5406717b26f41085dad8cc553e78c6cc54ea936df8ff1aa1312f32a6c053",
+        "size_in_bytes": 38823
+      },
+      {
+        "_path": "Library/include/openssl/engineerr.h",
+        "path_type": "hardlink",
+        "sha256": "8616a93b1b1bd8d1221844834817c28b7da78be1649a5b1780d9ea65fba8807c",
+        "sha256_in_prefix": "8616a93b1b1bd8d1221844834817c28b7da78be1649a5b1780d9ea65fba8807c",
+        "size_in_bytes": 2838
+      },
+      {
+        "_path": "Library/include/openssl/err.h",
+        "path_type": "hardlink",
+        "sha256": "8fdfff5eea42f99082282e5d29e4b725431bfc9d0e80fd45180e44a2fadb613f",
+        "sha256_in_prefix": "8fdfff5eea42f99082282e5d29e4b725431bfc9d0e80fd45180e44a2fadb613f",
+        "size_in_bytes": 22737
+      },
+      {
+        "_path": "Library/include/openssl/ess.h",
+        "path_type": "hardlink",
+        "sha256": "494f87fe22195a9756db7e603b7e53f2c26145da37ab6e274400929e7bf3cc50",
+        "sha256_in_prefix": "494f87fe22195a9756db7e603b7e53f2c26145da37ab6e274400929e7bf3cc50",
+        "size_in_bytes": 9096
+      },
+      {
+        "_path": "Library/include/openssl/esserr.h",
+        "path_type": "hardlink",
+        "sha256": "e791193e891b0784670d5410539aeea9d2a8591de71495b4add6e7dbf9dc22cd",
+        "sha256_in_prefix": "e791193e891b0784670d5410539aeea9d2a8591de71495b4add6e7dbf9dc22cd",
+        "size_in_bytes": 1144
+      },
+      {
+        "_path": "Library/include/openssl/evp.h",
+        "path_type": "hardlink",
+        "sha256": "e7a29e795a165d60a4554bfa191e84e7210783b0d18325e4bb6970a2bbb9f75b",
+        "sha256_in_prefix": "e7a29e795a165d60a4554bfa191e84e7210783b0d18325e4bb6970a2bbb9f75b",
+        "size_in_bytes": 104275
+      },
+      {
+        "_path": "Library/include/openssl/evperr.h",
+        "path_type": "hardlink",
+        "sha256": "3e11a8b5fa924cdcc314feb15fd874a7143453ad1bc3638b3fa6a38024dc6890",
+        "sha256_in_prefix": "3e11a8b5fa924cdcc314feb15fd874a7143453ad1bc3638b3fa6a38024dc6890",
+        "size_in_bytes": 7537
+      },
+      {
+        "_path": "Library/include/openssl/fips_names.h",
+        "path_type": "hardlink",
+        "sha256": "19e32043a3093329cca882db5348c7cfc9d3f7901d8294bf20e380763bd5d594",
+        "sha256_in_prefix": "19e32043a3093329cca882db5348c7cfc9d3f7901d8294bf20e380763bd5d594",
+        "size_in_bytes": 2255
+      },
+      {
+        "_path": "Library/include/openssl/fipskey.h",
+        "path_type": "hardlink",
+        "sha256": "be2cbfd5e3a82d97566c390cb881cded2136edad5d12783c8419da623b18ac66",
+        "sha256_in_prefix": "be2cbfd5e3a82d97566c390cb881cded2136edad5d12783c8419da623b18ac66",
+        "size_in_bytes": 1046
+      },
+      {
+        "_path": "Library/include/openssl/hmac.h",
+        "path_type": "hardlink",
+        "sha256": "e49fbe0086f8fbefa5648eef70bc84e8090a9226a1e3c6e856499373004aed0a",
+        "sha256_in_prefix": "e49fbe0086f8fbefa5648eef70bc84e8090a9226a1e3c6e856499373004aed0a",
+        "size_in_bytes": 2141
+      },
+      {
+        "_path": "Library/include/openssl/hpke.h",
+        "path_type": "hardlink",
+        "sha256": "a493c6bb10cd5155db251ee3c90996caf3374f16014b792c5a573ea5886bbcd1",
+        "sha256_in_prefix": "a493c6bb10cd5155db251ee3c90996caf3374f16014b792c5a573ea5886bbcd1",
+        "size_in_bytes": 6981
+      },
+      {
+        "_path": "Library/include/openssl/http.h",
+        "path_type": "hardlink",
+        "sha256": "e370126879b70b15525bd313d93e6ee2df59f3ff66889befcf890507449d5bb1",
+        "sha256_in_prefix": "e370126879b70b15525bd313d93e6ee2df59f3ff66889befcf890507449d5bb1",
+        "size_in_bytes": 5353
+      },
+      {
+        "_path": "Library/include/openssl/httperr.h",
+        "path_type": "hardlink",
+        "sha256": "b50562e98d92c08e47e2b1b0bcf5652820b2a774652968a1188f9f2d87f2fe87",
+        "sha256_in_prefix": "b50562e98d92c08e47e2b1b0bcf5652820b2a774652968a1188f9f2d87f2fe87",
+        "size_in_bytes": 2451
+      },
+      {
+        "_path": "Library/include/openssl/idea.h",
+        "path_type": "hardlink",
+        "sha256": "239122df15e738d7552dd76850c55a9ffe0136f33506c23d9058215a1255af66",
+        "sha256_in_prefix": "239122df15e738d7552dd76850c55a9ffe0136f33506c23d9058215a1255af66",
+        "size_in_bytes": 3010
+      },
+      {
+        "_path": "Library/include/openssl/kdf.h",
+        "path_type": "hardlink",
+        "sha256": "41756fe038443d1d270458d53d6e42ea78d12d980728b6a9284fa259958ea00a",
+        "sha256_in_prefix": "41756fe038443d1d270458d53d6e42ea78d12d980728b6a9284fa259958ea00a",
+        "size_in_bytes": 5619
+      },
+      {
+        "_path": "Library/include/openssl/kdferr.h",
+        "path_type": "hardlink",
+        "sha256": "3d9f27fffdb49e0ece9d5a62adbb9cc42c56262b00cc8ce7f956b2cb05a2a22d",
+        "sha256_in_prefix": "3d9f27fffdb49e0ece9d5a62adbb9cc42c56262b00cc8ce7f956b2cb05a2a22d",
+        "size_in_bytes": 482
+      },
+      {
+        "_path": "Library/include/openssl/lhash.h",
+        "path_type": "hardlink",
+        "sha256": "a8ffebe058b941cecf93c3029d18b042cb747b56afbfd346a327ebcbbbe632bf",
+        "sha256_in_prefix": "a8ffebe058b941cecf93c3029d18b042cb747b56afbfd346a327ebcbbbe632bf",
+        "size_in_bytes": 14926
+      },
+      {
+        "_path": "Library/include/openssl/macros.h",
+        "path_type": "hardlink",
+        "sha256": "3071da3bdac478c6f5f67976e95b0259785bc2ba4d27aeab7b905ce9882347d6",
+        "sha256_in_prefix": "3071da3bdac478c6f5f67976e95b0259785bc2ba4d27aeab7b905ce9882347d6",
+        "size_in_bytes": 10738
+      },
+      {
+        "_path": "Library/include/openssl/md2.h",
+        "path_type": "hardlink",
+        "sha256": "4add77ed047736979dc442a49d42921cce21e654a2dceef058d0191aa2d3c941",
+        "sha256_in_prefix": "4add77ed047736979dc442a49d42921cce21e654a2dceef058d0191aa2d3c941",
+        "size_in_bytes": 1461
+      },
+      {
+        "_path": "Library/include/openssl/md4.h",
+        "path_type": "hardlink",
+        "sha256": "0472e597d139b44dd7d78d9093a5d8109417d18e9955fc940f1ea3e2e892ab44",
+        "sha256_in_prefix": "0472e597d139b44dd7d78d9093a5d8109417d18e9955fc940f1ea3e2e892ab44",
+        "size_in_bytes": 1699
+      },
+      {
+        "_path": "Library/include/openssl/md5.h",
+        "path_type": "hardlink",
+        "sha256": "308c901ec1a28f9b0098717f689ca63e104ce805050802d38b8f122d85ab2c78",
+        "sha256_in_prefix": "308c901ec1a28f9b0098717f689ca63e104ce805050802d38b8f122d85ab2c78",
+        "size_in_bytes": 1696
+      },
+      {
+        "_path": "Library/include/openssl/mdc2.h",
+        "path_type": "hardlink",
+        "sha256": "42b844c9ae9e00e7c0b0e28858b8b3db7b8abf7e514e5e63f43456371ed3384b",
+        "sha256_in_prefix": "42b844c9ae9e00e7c0b0e28858b8b3db7b8abf7e514e5e63f43456371ed3384b",
+        "size_in_bytes": 1441
+      },
+      {
+        "_path": "Library/include/openssl/modes.h",
+        "path_type": "hardlink",
+        "sha256": "4a8b3b1dafc15798a3b2bef0e3885275746e7fae73a0d96e55da55261554ba52",
+        "sha256_in_prefix": "4a8b3b1dafc15798a3b2bef0e3885275746e7fae73a0d96e55da55261554ba52",
+        "size_in_bytes": 10786
+      },
+      {
+        "_path": "Library/include/openssl/obj_mac.h",
+        "path_type": "hardlink",
+        "sha256": "c1a58899532495f99fd3c416d71819179663a66fbe272f64bb90ab057fa0e550",
+        "sha256_in_prefix": "c1a58899532495f99fd3c416d71819179663a66fbe272f64bb90ab057fa0e550",
+        "size_in_bytes": 243496
+      },
+      {
+        "_path": "Library/include/openssl/objects.h",
+        "path_type": "hardlink",
+        "sha256": "5fc6f3f0dd5e46fd409cb51ae1b331fec799fb6ef4b5efdc8ffbe264e5e83997",
+        "sha256_in_prefix": "5fc6f3f0dd5e46fd409cb51ae1b331fec799fb6ef4b5efdc8ffbe264e5e83997",
+        "size_in_bytes": 6848
+      },
+      {
+        "_path": "Library/include/openssl/objectserr.h",
+        "path_type": "hardlink",
+        "sha256": "e17a8d7f62a1ef257fd90e604d4293bf02d5f81ae8198efe1e197c5b27baeb8c",
+        "sha256_in_prefix": "e17a8d7f62a1ef257fd90e604d4293bf02d5f81ae8198efe1e197c5b27baeb8c",
+        "size_in_bytes": 782
+      },
+      {
+        "_path": "Library/include/openssl/ocsp.h",
+        "path_type": "hardlink",
+        "sha256": "01aa2aa17ccad22ebc1a1701ad27b67a165a0c23f9e50fe5ad86b4e90ef190b9",
+        "sha256_in_prefix": "01aa2aa17ccad22ebc1a1701ad27b67a165a0c23f9e50fe5ad86b4e90ef190b9",
+        "size_in_bytes": 29835
+      },
+      {
+        "_path": "Library/include/openssl/ocsperr.h",
+        "path_type": "hardlink",
+        "sha256": "178329cfc042d3f1eb6e179206d844de41ba05ee4ac0ed9e3e6c861fb49d68ea",
+        "sha256_in_prefix": "178329cfc042d3f1eb6e179206d844de41ba05ee4ac0ed9e3e6c861fb49d68ea",
+        "size_in_bytes": 2200
+      },
+      {
+        "_path": "Library/include/openssl/opensslconf.h",
+        "path_type": "hardlink",
+        "sha256": "890184233890bacd52fd420fef07befad411b9a318b97efbf36f46673d3e7841",
+        "sha256_in_prefix": "890184233890bacd52fd420fef07befad411b9a318b97efbf36f46673d3e7841",
+        "size_in_bytes": 515
+      },
+      {
+        "_path": "Library/include/openssl/opensslv.h",
+        "path_type": "hardlink",
+        "sha256": "cb223ad5a64eb844387bd74a9828b6a2c9649d51a6068cacaff19289fa9c7994",
+        "sha256_in_prefix": "cb223ad5a64eb844387bd74a9828b6a2c9649d51a6068cacaff19289fa9c7994",
+        "size_in_bytes": 3300
+      },
+      {
+        "_path": "Library/include/openssl/ossl_typ.h",
+        "path_type": "hardlink",
+        "sha256": "76cb203ef3bcd305f4171e1d33f3f3319dee6354c2433493e5e9068aa79672fd",
+        "sha256_in_prefix": "76cb203ef3bcd305f4171e1d33f3f3319dee6354c2433493e5e9068aa79672fd",
+        "size_in_bytes": 562
+      },
+      {
+        "_path": "Library/include/openssl/param_build.h",
+        "path_type": "hardlink",
+        "sha256": "3bf39b1037256466f1a89868621b2b62f1d05e63064159e60727041b170d55e3",
+        "sha256_in_prefix": "3bf39b1037256466f1a89868621b2b62f1d05e63064159e60727041b170d55e3",
+        "size_in_bytes": 2809
+      },
+      {
+        "_path": "Library/include/openssl/params.h",
+        "path_type": "hardlink",
+        "sha256": "10d8e0157e339ee01f3b9c60c4b5bc60e6d4edce1084f0c9589ff75bf3a9f693",
+        "sha256_in_prefix": "10d8e0157e339ee01f3b9c60c4b5bc60e6d4edce1084f0c9589ff75bf3a9f693",
+        "size_in_bytes": 7328
+      },
+      {
+        "_path": "Library/include/openssl/pem.h",
+        "path_type": "hardlink",
+        "sha256": "3c272adab77a71498899d9cd7c4c1b595ff4fe6d51b3d051907c4fd39816ef57",
+        "sha256_in_prefix": "3c272adab77a71498899d9cd7c4c1b595ff4fe6d51b3d051907c4fd39816ef57",
+        "size_in_bytes": 25870
+      },
+      {
+        "_path": "Library/include/openssl/pem2.h",
+        "path_type": "hardlink",
+        "sha256": "a34a1607983b5f32be8ca49e75c3b41f1c9413b4eb777af144958283ecbd3922",
+        "sha256_in_prefix": "a34a1607983b5f32be8ca49e75c3b41f1c9413b4eb777af144958283ecbd3922",
+        "size_in_bytes": 531
+      },
+      {
+        "_path": "Library/include/openssl/pemerr.h",
+        "path_type": "hardlink",
+        "sha256": "843df90b1b434eed626bb6b8bccd5f6ed530e592d706584f56a725d254d8a5d2",
+        "sha256_in_prefix": "843df90b1b434eed626bb6b8bccd5f6ed530e592d706584f56a725d254d8a5d2",
+        "size_in_bytes": 2634
+      },
+      {
+        "_path": "Library/include/openssl/pkcs12.h",
+        "path_type": "hardlink",
+        "sha256": "86f9a779e4ab87b39fe5ac772a2027a4763c4bb8c91d4b15a5c4b714d6b41793",
+        "sha256_in_prefix": "86f9a779e4ab87b39fe5ac772a2027a4763c4bb8c91d4b15a5c4b714d6b41793",
+        "size_in_bytes": 20535
+      },
+      {
+        "_path": "Library/include/openssl/pkcs12err.h",
+        "path_type": "hardlink",
+        "sha256": "fa281e5b93652e6c2c31393f62539d5252c125a4b1c4214f21fa321bd033da10",
+        "sha256_in_prefix": "fa281e5b93652e6c2c31393f62539d5252c125a4b1c4214f21fa321bd033da10",
+        "size_in_bytes": 1899
+      },
+      {
+        "_path": "Library/include/openssl/pkcs7.h",
+        "path_type": "hardlink",
+        "sha256": "03ef48a36f5ec64a2fc60ac10669fff147e7bf3c0624a460e536015f1f09999c",
+        "sha256_in_prefix": "03ef48a36f5ec64a2fc60ac10669fff147e7bf3c0624a460e536015f1f09999c",
+        "size_in_bytes": 23089
+      },
+      {
+        "_path": "Library/include/openssl/pkcs7err.h",
+        "path_type": "hardlink",
+        "sha256": "9fe7a51f3de13b1fd03b319c64b8bd287164eb6ce7d3481994141c0be51396d5",
+        "sha256_in_prefix": "9fe7a51f3de13b1fd03b319c64b8bd287164eb6ce7d3481994141c0be51396d5",
+        "size_in_bytes": 2952
+      },
+      {
+        "_path": "Library/include/openssl/prov_ssl.h",
+        "path_type": "hardlink",
+        "sha256": "31ded7f804f341c01c2f305187d1cf76daebe4426a1c6b4d2abc2b12d6e2d090",
+        "sha256_in_prefix": "31ded7f804f341c01c2f305187d1cf76daebe4426a1c6b4d2abc2b12d6e2d090",
+        "size_in_bytes": 1139
+      },
+      {
+        "_path": "Library/include/openssl/proverr.h",
+        "path_type": "hardlink",
+        "sha256": "51498c8317f8102afd8d7a15d0d2d19a62fb2ce55a66b4537aa6c9953a1912e4",
+        "sha256_in_prefix": "51498c8317f8102afd8d7a15d0d2d19a62fb2ce55a66b4537aa6c9953a1912e4",
+        "size_in_bytes": 8527
+      },
+      {
+        "_path": "Library/include/openssl/provider.h",
+        "path_type": "hardlink",
+        "sha256": "1447ea059af6d57fe7101909f551667ffef85d43ebac74b668ff39ce7de7a13c",
+        "sha256_in_prefix": "1447ea059af6d57fe7101909f551667ffef85d43ebac74b668ff39ce7de7a13c",
+        "size_in_bytes": 2733
+      },
+      {
+        "_path": "Library/include/openssl/quic.h",
+        "path_type": "hardlink",
+        "sha256": "99c1fdf50129039b16af5b60ffb69638b7df4bc1c8b045299d7e480d4de90208",
+        "sha256_in_prefix": "99c1fdf50129039b16af5b60ffb69638b7df4bc1c8b045299d7e480d4de90208",
+        "size_in_bytes": 849
+      },
+      {
+        "_path": "Library/include/openssl/rand.h",
+        "path_type": "hardlink",
+        "sha256": "3ac0539d994400546be2710e3be80b4b8ea28772c06d549d514fc305e0aa077b",
+        "sha256_in_prefix": "3ac0539d994400546be2710e3be80b4b8ea28772c06d549d514fc305e0aa077b",
+        "size_in_bytes": 3983
+      },
+      {
+        "_path": "Library/include/openssl/randerr.h",
+        "path_type": "hardlink",
+        "sha256": "455f8ca7562cbb97dc3d7f8ce2ce27a404ac2ae3a6d7219d45c48c54bc80f910",
+        "sha256_in_prefix": "455f8ca7562cbb97dc3d7f8ce2ce27a404ac2ae3a6d7219d45c48c54bc80f910",
+        "size_in_bytes": 3319
+      },
+      {
+        "_path": "Library/include/openssl/rc2.h",
+        "path_type": "hardlink",
+        "sha256": "08c6865d169a300e8bc818bd810f80ffb8a21d69e97dad88e400b586d0f3e965",
+        "sha256_in_prefix": "08c6865d169a300e8bc818bd810f80ffb8a21d69e97dad88e400b586d0f3e965",
+        "size_in_bytes": 2382
+      },
+      {
+        "_path": "Library/include/openssl/rc4.h",
+        "path_type": "hardlink",
+        "sha256": "ea45836c253246c1d6f1b16b360dbb59322e26e28bfc54881d698e7cd5057666",
+        "sha256_in_prefix": "ea45836c253246c1d6f1b16b360dbb59322e26e28bfc54881d698e7cd5057666",
+        "size_in_bytes": 1194
+      },
+      {
+        "_path": "Library/include/openssl/rc5.h",
+        "path_type": "hardlink",
+        "sha256": "968c96ead08204edb8148981094700cbc3338ed0613c4469da5ab4675fa1ce29",
+        "sha256_in_prefix": "968c96ead08204edb8148981094700cbc3338ed0613c4469da5ab4675fa1ce29",
+        "size_in_bytes": 2861
+      },
+      {
+        "_path": "Library/include/openssl/ripemd.h",
+        "path_type": "hardlink",
+        "sha256": "2e28edeb6613516db89e28c9d962301f4fe7b38366ebdd1d35933f3491d57b9d",
+        "sha256_in_prefix": "2e28edeb6613516db89e28c9d962301f4fe7b38366ebdd1d35933f3491d57b9d",
+        "size_in_bytes": 1717
+      },
+      {
+        "_path": "Library/include/openssl/rsa.h",
+        "path_type": "hardlink",
+        "sha256": "c30eeea9aef005afac36c1ec5565d4069194c088cb7a22930d7ba0ed814d7402",
+        "sha256_in_prefix": "c30eeea9aef005afac36c1ec5565d4069194c088cb7a22930d7ba0ed814d7402",
+        "size_in_bytes": 28478
+      },
+      {
+        "_path": "Library/include/openssl/rsaerr.h",
+        "path_type": "hardlink",
+        "sha256": "a745e6b2835af7bb933e78870a270d51ab33778fe10a5cd377422d4b9587dcf0",
+        "sha256_in_prefix": "a745e6b2835af7bb933e78870a270d51ab33778fe10a5cd377422d4b9587dcf0",
+        "size_in_bytes": 5681
+      },
+      {
+        "_path": "Library/include/openssl/safestack.h",
+        "path_type": "hardlink",
+        "sha256": "1089ec732df2ababf7185ecf93660a5a8e2cf6d84eee3097afa514086cde7cb5",
+        "sha256_in_prefix": "1089ec732df2ababf7185ecf93660a5a8e2cf6d84eee3097afa514086cde7cb5",
+        "size_in_bytes": 18736
+      },
+      {
+        "_path": "Library/include/openssl/seed.h",
+        "path_type": "hardlink",
+        "sha256": "0d6d206f240f7bd6fa28cd4ec66b2b878f199af3ce6eda172af9fe31ebb71586",
+        "sha256_in_prefix": "0d6d206f240f7bd6fa28cd4ec66b2b878f199af3ce6eda172af9fe31ebb71586",
+        "size_in_bytes": 3964
+      },
+      {
+        "_path": "Library/include/openssl/self_test.h",
+        "path_type": "hardlink",
+        "sha256": "780a17cecfd4f821d1293ababb5f560a111c67d32eace330d22ce40f03fee84d",
+        "sha256_in_prefix": "780a17cecfd4f821d1293ababb5f560a111c67d32eace330d22ce40f03fee84d",
+        "size_in_bytes": 4145
+      },
+      {
+        "_path": "Library/include/openssl/sha.h",
+        "path_type": "hardlink",
+        "sha256": "553407b2787ef08f69396973063de06340097cb7e4c1569265a533b3567e1856",
+        "sha256_in_prefix": "553407b2787ef08f69396973063de06340097cb7e4c1569265a533b3567e1856",
+        "size_in_bytes": 4695
+      },
+      {
+        "_path": "Library/include/openssl/srp.h",
+        "path_type": "hardlink",
+        "sha256": "8b4982b2f881ef4234279e1fe31634848a64db40d66762c2e396a4f8beafb296",
+        "sha256_in_prefix": "8b4982b2f881ef4234279e1fe31634848a64db40d66762c2e396a4f8beafb296",
+        "size_in_bytes": 15772
+      },
+      {
+        "_path": "Library/include/openssl/srtp.h",
+        "path_type": "hardlink",
+        "sha256": "20ddd75f9579087b24339e12c14b11939bca462e3cbc2e4b1867773407d6162a",
+        "sha256_in_prefix": "20ddd75f9579087b24339e12c14b11939bca462e3cbc2e4b1867773407d6162a",
+        "size_in_bytes": 2180
+      },
+      {
+        "_path": "Library/include/openssl/ssl.h",
+        "path_type": "hardlink",
+        "sha256": "086153623b262757c1060813fd31ce689cb0061615f610cbfc5aa27383c3a621",
+        "sha256_in_prefix": "086153623b262757c1060813fd31ce689cb0061615f610cbfc5aa27383c3a621",
+        "size_in_bytes": 134973
+      },
+      {
+        "_path": "Library/include/openssl/ssl2.h",
+        "path_type": "hardlink",
+        "sha256": "92e3330e2867bf17d3b305ba0f6fe6b073ad4bdb9db519e4224bbd993f1e9cb7",
+        "sha256_in_prefix": "92e3330e2867bf17d3b305ba0f6fe6b073ad4bdb9db519e4224bbd993f1e9cb7",
+        "size_in_bytes": 658
+      },
+      {
+        "_path": "Library/include/openssl/ssl3.h",
+        "path_type": "hardlink",
+        "sha256": "f901dfcb95371c404b9e8b67d36ef2413a915447bd306e0f96237c97867a6146",
+        "sha256_in_prefix": "f901dfcb95371c404b9e8b67d36ef2413a915447bd306e0f96237c97867a6146",
+        "size_in_bytes": 15159
+      },
+      {
+        "_path": "Library/include/openssl/sslerr.h",
+        "path_type": "hardlink",
+        "sha256": "1ffb3c381842fc1535ac05df29759177a8221cc8be95e2848bafa09fd0c33bc8",
+        "sha256_in_prefix": "1ffb3c381842fc1535ac05df29759177a8221cc8be95e2848bafa09fd0c33bc8",
+        "size_in_bytes": 21889
+      },
+      {
+        "_path": "Library/include/openssl/sslerr_legacy.h",
+        "path_type": "hardlink",
+        "sha256": "98401ca29f46694fff11304801d995015a7e4a81afe0db0a9a79a0bdde9e03d8",
+        "sha256_in_prefix": "98401ca29f46694fff11304801d995015a7e4a81afe0db0a9a79a0bdde9e03d8",
+        "size_in_bytes": 27005
+      },
+      {
+        "_path": "Library/include/openssl/stack.h",
+        "path_type": "hardlink",
+        "sha256": "69f94382a15a3c4cfd1dda32108db5234727b36ed0e25f1fb12e0993c7b5ac95",
+        "sha256_in_prefix": "69f94382a15a3c4cfd1dda32108db5234727b36ed0e25f1fb12e0993c7b5ac95",
+        "size_in_bytes": 3284
+      },
+      {
+        "_path": "Library/include/openssl/store.h",
+        "path_type": "hardlink",
+        "sha256": "233e1f210c4757fc5e221a0727c938429078bc04e22376528b0fcf3f7307ac9b",
+        "sha256_in_prefix": "233e1f210c4757fc5e221a0727c938429078bc04e22376528b0fcf3f7307ac9b",
+        "size_in_bytes": 15461
+      },
+      {
+        "_path": "Library/include/openssl/storeerr.h",
+        "path_type": "hardlink",
+        "sha256": "370277e107a1b979ff5e0bd28f5adb92e066d41831ac37ce7108d2a1b84376f6",
+        "sha256_in_prefix": "370277e107a1b979ff5e0bd28f5adb92e066d41831ac37ce7108d2a1b84376f6",
+        "size_in_bytes": 2092
+      },
+      {
+        "_path": "Library/include/openssl/symhacks.h",
+        "path_type": "hardlink",
+        "sha256": "68b54776fa15943f3f018be6c7dc7a8847c9f512fb5eeec4f093804197dc2dfa",
+        "sha256_in_prefix": "68b54776fa15943f3f018be6c7dc7a8847c9f512fb5eeec4f093804197dc2dfa",
+        "size_in_bytes": 1290
+      },
+      {
+        "_path": "Library/include/openssl/thread.h",
+        "path_type": "hardlink",
+        "sha256": "9390db912ff47887ff9cfba47b982379dc4a965fb2d085a2f34dc27141c07406",
+        "sha256_in_prefix": "9390db912ff47887ff9cfba47b982379dc4a965fb2d085a2f34dc27141c07406",
+        "size_in_bytes": 871
+      },
+      {
+        "_path": "Library/include/openssl/tls1.h",
+        "path_type": "hardlink",
+        "sha256": "01fe7c52e0093ad010e73fcf287f9729284c9b0ef5cda9766acc4c56bf24f3e6",
+        "sha256_in_prefix": "01fe7c52e0093ad010e73fcf287f9729284c9b0ef5cda9766acc4c56bf24f3e6",
+        "size_in_bytes": 72578
+      },
+      {
+        "_path": "Library/include/openssl/trace.h",
+        "path_type": "hardlink",
+        "sha256": "f49ed49126448972dc92b38aa6a224d9bd8a738ef6b037116f5e0a7f8065a9db",
+        "sha256_in_prefix": "f49ed49126448972dc92b38aa6a224d9bd8a738ef6b037116f5e0a7f8065a9db",
+        "size_in_bytes": 10737
+      },
+      {
+        "_path": "Library/include/openssl/ts.h",
+        "path_type": "hardlink",
+        "sha256": "bc0c028affba178820caacf5f0b1ec085f12e644d77d2edf44184f8032103e98",
+        "sha256_in_prefix": "bc0c028affba178820caacf5f0b1ec085f12e644d77d2edf44184f8032103e98",
+        "size_in_bytes": 19760
+      },
+      {
+        "_path": "Library/include/openssl/tserr.h",
+        "path_type": "hardlink",
+        "sha256": "0d851cb9db84c48bb8a9871a988950fd0b62ecc854b11641e3e9a07fa191a6f6",
+        "sha256_in_prefix": "0d851cb9db84c48bb8a9871a988950fd0b62ecc854b11641e3e9a07fa191a6f6",
+        "size_in_bytes": 3074
+      },
+      {
+        "_path": "Library/include/openssl/txt_db.h",
+        "path_type": "hardlink",
+        "sha256": "1a6a6b331ef3cc6c632f782e8da2fa81aaeeac56e4d0b2fb3016f936805be257",
+        "sha256_in_prefix": "1a6a6b331ef3cc6c632f782e8da2fa81aaeeac56e4d0b2fb3016f936805be257",
+        "size_in_bytes": 1784
+      },
+      {
+        "_path": "Library/include/openssl/types.h",
+        "path_type": "hardlink",
+        "sha256": "fd9a49f963f599a34792a56eea344ceb35b6958c9675169012cc3f6a484c2c11",
+        "sha256_in_prefix": "fd9a49f963f599a34792a56eea344ceb35b6958c9675169012cc3f6a484c2c11",
+        "size_in_bytes": 7316
+      },
+      {
+        "_path": "Library/include/openssl/ui.h",
+        "path_type": "hardlink",
+        "sha256": "1ec7da15b464387449827771eb3884b3a0f2a66001703809ba4d519e0ba4636a",
+        "sha256_in_prefix": "1ec7da15b464387449827771eb3884b3a0f2a66001703809ba4d519e0ba4636a",
+        "size_in_bytes": 19658
+      },
+      {
+        "_path": "Library/include/openssl/uierr.h",
+        "path_type": "hardlink",
+        "sha256": "6f46dc9509b4d10802aaa1ad3c84763a2843312fdc8dd8add5c7b24e7f0c877f",
+        "sha256_in_prefix": "6f46dc9509b4d10802aaa1ad3c84763a2843312fdc8dd8add5c7b24e7f0c877f",
+        "size_in_bytes": 1391
+      },
+      {
+        "_path": "Library/include/openssl/whrlpool.h",
+        "path_type": "hardlink",
+        "sha256": "bb8f9f6ad1960e87f78363793130a0c1bee89b64a12eb32e939791fb0ca61016",
+        "sha256_in_prefix": "bb8f9f6ad1960e87f78363793130a0c1bee89b64a12eb32e939791fb0ca61016",
+        "size_in_bytes": 1853
+      },
+      {
+        "_path": "Library/include/openssl/x509.h",
+        "path_type": "hardlink",
+        "sha256": "296a006c980fddc714b971bb6b667612b4cc47958ff71d193b59292b90a778b4",
+        "sha256_in_prefix": "296a006c980fddc714b971bb6b667612b4cc47958ff71d193b59292b90a778b4",
+        "size_in_bytes": 73313
+      },
+      {
+        "_path": "Library/include/openssl/x509_vfy.h",
+        "path_type": "hardlink",
+        "sha256": "008b44e7e0128dcfd41e407470b62a49ec3a76f343a47b6e4744c86d00a01cd2",
+        "sha256_in_prefix": "008b44e7e0128dcfd41e407470b62a49ec3a76f343a47b6e4744c86d00a01cd2",
+        "size_in_bytes": 53352
+      },
+      {
+        "_path": "Library/include/openssl/x509err.h",
+        "path_type": "hardlink",
+        "sha256": "2f499bb7bbe947d9ed700d26debfad274c0233462d1dcf4504a8f339c11dbdb4",
+        "sha256_in_prefix": "2f499bb7bbe947d9ed700d26debfad274c0233462d1dcf4504a8f339c11dbdb4",
+        "size_in_bytes": 3319
+      },
+      {
+        "_path": "Library/include/openssl/x509v3.h",
+        "path_type": "hardlink",
+        "sha256": "f1e158c6481bc6f7cb789dc74a1925db797b437bc56573bb556818ffc4584415",
+        "sha256_in_prefix": "f1e158c6481bc6f7cb789dc74a1925db797b437bc56573bb556818ffc4584415",
+        "size_in_bytes": 95520
+      },
+      {
+        "_path": "Library/include/openssl/x509v3err.h",
+        "path_type": "hardlink",
+        "sha256": "294e1a37440b7d5fa1b780c385353f3e9aeb5eddcb6cca73d44bf4186698ee57",
+        "sha256_in_prefix": "294e1a37440b7d5fa1b780c385353f3e9aeb5eddcb6cca73d44bf4186698ee57",
+        "size_in_bytes": 5005
+      },
+      {
+        "_path": "Library/lib/libcrypto.lib",
+        "path_type": "hardlink",
+        "sha256": "e4a3b29f8a6c546c6e6bd5cd1692a7645450f10da23166391a59146d2d1a2eda",
+        "sha256_in_prefix": "e4a3b29f8a6c546c6e6bd5cd1692a7645450f10da23166391a59146d2d1a2eda",
+        "size_in_bytes": 1277128
+      },
+      {
+        "_path": "Library/lib/libssl.lib",
+        "path_type": "hardlink",
+        "sha256": "44963ff7146d035c838fdd1e98d1e9a7d0cc3c4781d7ec479dafebac092632e6",
+        "sha256_in_prefix": "44963ff7146d035c838fdd1e98d1e9a7d0cc3c4781d7ec479dafebac092632e6",
+        "size_in_bytes": 140540
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libcrypto.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/openssl_split_1710792702164/_h_env",
+        "sha256": "cafa0adbcd239c1b16397ebec1e412b799d2e7e9f846c50c4c4d14ec37bc4a8b",
+        "sha256_in_prefix": "9c285aeb85057b5b1233d61ea0a6ed822c17009f5dca78c092c4b7c18b567116",
+        "size_in_bytes": 320
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libssl.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/openssl_split_1710792702164/_h_env",
+        "sha256": "a03c3aba2ec60729e5a3544eaac4bf06a4fd2eb28aca418e2771cd20ae0d2f3d",
+        "sha256_in_prefix": "1d9ea772fa64782c47a5ebb2b9e0b54948ca32c260e749006d6101ed18df0b97",
+        "size_in_bytes": 320
+      },
+      {
+        "_path": "Library/lib/pkgconfig/openssl.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/openssl_split_1710792702164/_h_env",
+        "sha256": "b1cfb1e677bede42ba117b949444cc8282ed9e0cdd8d14a10eda595495832530",
+        "sha256_in_prefix": "36743019b913a017a6edeb797bd899b4f62d1070a2727c569e168bde60688517",
+        "size_in_bytes": 273
+      },
+      {
+        "_path": "Library/misc/CA.pl",
+        "path_type": "hardlink",
+        "sha256": "7bac7b54ccf8a575c7ed465a77efaef2d673e2f404183688b050fe2e03604f4d",
+        "sha256_in_prefix": "7bac7b54ccf8a575c7ed465a77efaef2d673e2f404183688b050fe2e03604f4d",
+        "size_in_bytes": 8303
+      },
+      {
+        "_path": "Library/misc/tsget.pl",
+        "path_type": "hardlink",
+        "sha256": "8be3ae0d2825e0e165c43fa17154abb365e0190b7b3e0353770974ea42b127a8",
+        "sha256_in_prefix": "8be3ae0d2825e0e165c43fa17154abb365e0190b7b3e0353770974ea42b127a8",
+        "size_in_bytes": 6946
+      },
+      {
+        "_path": "Library/openssl.cnf",
+        "path_type": "hardlink",
+        "sha256": "3a0c65ff954aff207420846926d31d1b6056be525a0f3d38dff21f5b89f90688",
+        "sha256_in_prefix": "3a0c65ff954aff207420846926d31d1b6056be525a0f3d38dff21f5b89f90688",
+        "size_in_bytes": 12328
+      },
+      {
+        "_path": "Library/openssl.cnf.dist",
+        "path_type": "hardlink",
+        "sha256": "3a0c65ff954aff207420846926d31d1b6056be525a0f3d38dff21f5b89f90688",
+        "sha256_in_prefix": "3a0c65ff954aff207420846926d31d1b6056be525a0f3d38dff21f5b89f90688",
+        "size_in_bytes": 12328
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "61ce4e11c3c26ed4e4d9b7e7e2483121a1741ad0f9c8db0a91a28b6e05182ce6",
+  "size": 8230112,
+  "subdir": "win-64",
+  "timestamp": 1710796158000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/openssl-3.2.1-hcfcfb64_1.conda",
+  "version": "3.2.1"
+}

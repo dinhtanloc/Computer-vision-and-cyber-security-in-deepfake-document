@@ -1,0 +1,2 @@
+python tortoise/do_tts.py --text "Hello My name is Tran Thi Kim Chi" --voice "MYNEWVOICE" --preset fast
+cd tortoise-tts

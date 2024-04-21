@@ -1,0 +1,33 @@
+{
+  "build": "hcb4865c_18",
+  "build_number": 18,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.38.33130"
+  ],
+  "extracted_package_dir": "C:\\Users\\Admin\\miniconda3\\pkgs\\vs2015_runtime-14.38.33130-hcb4865c_18",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vs2015_runtime-14.38.33130-hcb4865c_18.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Admin\\miniconda3\\pkgs\\vs2015_runtime-14.38.33130-hcb4865c_18",
+    "type": 1
+  },
+  "md5": "10d42885e3ed84e575b454db30f1aa93",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "C:\\Users\\Admin\\miniconda3\\pkgs\\vs2015_runtime-14.38.33130-hcb4865c_18.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a2fec221f361d6263c117f4ea6d772b21c90a2f8edc6f3eb0eadec6bfe8843db",
+  "size": 16988,
+  "subdir": "win-64",
+  "timestamp": 1702511261000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.38.33130-hcb4865c_18.conda",
+  "version": "14.38.33130"
+}
