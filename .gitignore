@@ -1,2 +1,10 @@
 .history
 __pycache__
+
+*.wav
+*.mp3
+*.png
+*.jpg
+.env
+*.key
+request.py

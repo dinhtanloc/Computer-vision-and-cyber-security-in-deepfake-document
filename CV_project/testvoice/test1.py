@@ -1,4 +1,7 @@
 import requests
+import os
+from dotenv import load_dotenv
+load_dotenv()
 CHUNK_SIZE=1024
 
 url = "https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM"
@@ -14,7 +17,7 @@ payload = {
     }
 }
 headers = {
-    "xi-api-key": "a8ece59d870df78353d9e9d554d2c766",
+    "xi-api-key": os.getenv('xi-api-key'),
     "Content-Type": "application/json"
 }
 
